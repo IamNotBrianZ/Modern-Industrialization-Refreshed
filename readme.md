@@ -6,7 +6,7 @@ Requires **Fusion** mod to work
 
 ## Issues
 
-MI has its own texture loader, so CTM on machine controllers and hatches won't work
+MI has its own texture loader, so connected textures won't work on machine controllers and hatches
 
 ## Credits
 Texture taken from GregTech: Refreshed (Made by ULSTICK)
