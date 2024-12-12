@@ -1,6 +1,7 @@
 {
-    "pack": {
-      "pack_format": 34,
-      "description": "Modern Industrialization Refreshed"
-    }
+  "pack":{
+    "description":"minimal",
+    "pack_format":34,
+    "supported_formats":[14,50]
   }
+}
