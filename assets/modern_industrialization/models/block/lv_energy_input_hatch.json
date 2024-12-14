@@ -1,0 +1,10 @@
+{
+  "casing": "lv",
+  "default_overlays": {
+    "top": "modern_industrialization:block/overlays/energy_in",
+    "buttom": "modern_industrialization:block/overlays/energy_in",
+    "side": "modern_industrialization:block/overlays/energy_in",
+    "output": "modern_industrialization:block/overlays/transparent"
+  },
+  "loader": "modern_industrialization:machine"
+}

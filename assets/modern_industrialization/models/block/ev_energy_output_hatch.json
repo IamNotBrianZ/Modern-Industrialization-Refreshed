@@ -1,0 +1,7 @@
+{
+  "casing": "ev",
+  "default_overlays": {
+    "output": "modern_industrialization:block/overlays/energy_out"
+  },
+  "loader": "modern_industrialization:machine"
+}

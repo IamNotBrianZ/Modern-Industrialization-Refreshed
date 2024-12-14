@@ -1,0 +1,9 @@
+{
+  "casing": "hv",
+  "default_overlays": {
+    "fluid_auto": "modern_industrialization:block/overlays/fluid_hatch_auto",
+    "item_auto": "modern_industrialization:block/overlays/item_hatch_auto",
+    "output": "modern_industrialization:block/overlays/hatch_in"
+  },
+  "loader": "modern_industrialization:machine"
+}

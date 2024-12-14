@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "modern_industrialization:block/casings/hv/bottom",
+    "side": "modern_industrialization:block/casings/hv/side",
+    "top": "modern_industrialization:block/casings/hv/top"
+  }
+}
