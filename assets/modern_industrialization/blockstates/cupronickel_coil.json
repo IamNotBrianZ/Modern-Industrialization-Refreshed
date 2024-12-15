@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": {
+            "model": "modern_industrialization:block/cupronickel_coil"
+        }
+    },
+    "athena:loader": "athena:ctm",
+    "ctm_textures": {
+        "particle": "modern_industrialization:block/cupronickel_coil",
+        "empty": "modern_industrialization:block/cupronickel_coil/0",
+        "vertical": "modern_industrialization:block/cupronickel_coil/1",
+        "horizontal": "modern_industrialization:block/cupronickel_coil/2",
+        "center": "modern_industrialization:block/cupronickel_coil/3"
+    }
+}

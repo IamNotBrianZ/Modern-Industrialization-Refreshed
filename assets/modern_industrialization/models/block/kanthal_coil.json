@@ -1,9 +1,6 @@
 {
-  "loader": "fusion:model",
-  "type": "connecting",
-  "connections": [{"type": "is_same_block"}],
-  "parent": "block/cube_all",
+  "parent": "minecraft:block/cube_all",
   "textures": {
-     "all": "modern_industrialization:block/kanthal_coil_full"
+    "all": "modern_industrialization:block/kanthal_coil"
   }
 }
