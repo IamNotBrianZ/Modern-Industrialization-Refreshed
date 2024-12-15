@@ -4,6 +4,9 @@ Made this for the lack of GTM in ATM10
 (GregTech: Refreshed is the default texture for GTM)  
 Requires **Athena** mod to work
 
+# Images
+![alt text](https://github.com/IamNotBrianZ/Modern-Industrialization-Refreshed/blob/main/ebf.png?raw=true)
+
 ## Issues
 
 Some blocks in MI don't exist in GTM  
