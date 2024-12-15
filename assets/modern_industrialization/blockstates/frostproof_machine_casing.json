@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": {
+            "model": "modern_industrialization:block/frostproof_machine_casing"
+        }
+    },
+    "athena:loader": "athena:ctm",
+    "ctm_textures": {
+        "particle": "modern_industrialization:block/frostproof_machine_casing",
+        "empty": "modern_industrialization:block/frostproof_machine_casing/0",
+        "vertical": "modern_industrialization:block/frostproof_machine_casing/1",
+        "horizontal": "modern_industrialization:block/frostproof_machine_casing/2",
+        "center": "modern_industrialization:block/frostproof_machine_casing/3"
+    }
+}
