@@ -10,7 +10,7 @@ Requires **Athena** mod to work
 ## Issues
 
 Some blocks in MI don't exist in GTM  
-I'll re-color some already existing in GTM to fix that
+I'll re-color some already existing textures in GTM to fix that
 
 I don't know how to get emissive textures to work
 
