@@ -14,6 +14,9 @@ Items : 0%
 Some blocks in MI don't exist in GTM  
 I'll re-color some already existing textures in GTM to fix that
 
+The ctm textures of machine controllers and hatches don't work in ATM10
+(Works fine in my testing instance with fresh MI and athena installed, i don't know what's going on)
+
 I don't know how to get emissive textures to work
 
 ## Credits

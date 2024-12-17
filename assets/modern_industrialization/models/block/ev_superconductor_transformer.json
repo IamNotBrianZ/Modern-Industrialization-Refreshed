@@ -1,0 +1,10 @@
+{
+  "casing": "superconductor",
+  "default_overlays": {
+    "output": "modern_industrialization:block/overlays/energy_out",
+    "side": "modern_industrialization:block/overlays/energy_in",
+    "top": "modern_industrialization:block/overlays/energy_in",
+    "buttom": "modern_industrialization:block/overlays/energy_in"
+  },
+  "loader": "modern_industrialization:machine"
+}
